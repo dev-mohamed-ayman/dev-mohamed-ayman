@@ -4,21 +4,15 @@
 
 
 
-![رسوم متحركة](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-[![متابعون](https://img.shields.io/github/followers/dev-mohamed-ayman?style=social)](https://github.com/username)
-[![نجوم](https://img.shields.io/github/stars/dev-mohamed-ayman?style=social)](https://github.com/username)
+[![متابعون](https://img.shields.io/github/followers/dev-mohamed-ayman?style=social)](https://github.com/dev-mohamed-ayman)
+[![نجوم](https://img.shields.io/github/stars/dev-mohamed-ayman?style=social)](https://github.com/dev-mohamed-ayman)
 
 أنا مطور ويب متحمس متخصص في بناء تطبيقات ويب متكاملة باستخدام Laravel و Vue.js/React.
 
 ## 🔧 التقنيات والأدوات
 
 ### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHPPP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
