@@ -1,4 +1,37 @@
-# مرحبًا 👋 أنا [اسمك]، مطور Laravel Full Stack
+# 👋 Hi there, I'm Mohamed!
+
+I'm a **Full-Stack Developer** with experience building scalable web applications and APIs using Laravel, Next.js, and modern web technologies.
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on web platforms for education, HR, and e-commerce
+- 🌍 I’ve developed international projects for clients in **Switzerland**, **Germany**, and **Egypt**
+- 💡 Passionate about clean code, performance optimization, and solving real-world problems
+- 📚 Always learning something new — currently exploring advanced DevOps and system architecture
+
+## 🛠 Tech Stack
+
+- **Backend:** Laravel, PHP, REST APIs, Sanctum, GraphQL
+- **Frontend:** JavaScript, React.js, Next.js, Blade, Alpine.js
+- **Databases:** MySQL, PostgreSQL
+- **Styling:** Tailwind CSS, Bootstrap
+- **Tools:** Git, GitHub, Docker, Railway, cPanel
+
+## 🌟 Featured Projects
+
+- **Eduvalu** – A multi-country education platform for courses, books, and materials  
+- **Safir Universities** – A guide to private and community universities in Egypt  
+- **Somion** – A Swiss digital agency for websites and mobile apps  
+
+## 📫 Contact Me
+
+- 📧 Email: your@email.com  
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
+
+---
+
+> Thanks for visiting my profile! Feel free to check out my repositories and reach out if you'd like to collaborate or have a project in mind.
 
 
 
