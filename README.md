@@ -1,5 +1,15 @@
 # مرحبًا 👋 أنا [اسمك]، مطور Laravel Full Stack
 
+
+
+
+
+![رسوم متحركة](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
 [![متابعون](https://img.shields.io/github/followers/dev-mohamed-ayman?style=social)](https://github.com/username)
 [![نجوم](https://img.shields.io/github/stars/dev-mohamed-ayman?style=social)](https://github.com/username)
 
