@@ -20,7 +20,7 @@ I'm a **Full-Stack Developer** with experience building scalable web application
 
 - 📧 Email: [devel.mohamed.ayman@gmail.com](mailto:devel.mohamed.ayman@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/dev-mohamed-ayman](https://linkedin.com/in/dev-mohamed-ayman)
-- 🔗 Resume: [My Resume](https://drive.google.com/file/d/1LbcPZvNjiD2dE-STjW57ighOGb9vq3bP)
+- 🔗 Resume: [download resume](https://drive.google.com/file/d/1LbcPZvNjiD2dE-STjW57ighOGb9vq3bP)
 
 ---
 
