@@ -1,7 +1,7 @@
 # مرحبًا 👋 أنا [اسمك]، مطور Laravel Full Stack
 
 [![متابعون](https://img.shields.io/github/followers/username?style=social)](https://github.com/username)
-[![نجوم](https://img.shields.io/github/stars/username?style=social)](https://github.com/username)
+[![نجوم](https://img.shields.io/github/stars/dev-mohamed-ayman?style=social)](https://github.com/username)
 
 أنا مطور ويب متحمس متخصص في بناء تطبيقات ويب متكاملة باستخدام Laravel و Vue.js/React.
 
@@ -24,9 +24,9 @@
 
 ## 📊 إحصائيات GitHub
 
-[![إحصائيات GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dracula)](https://github.com/username)
+[![إحصائيات GitHub](https://github-readme-stats.vercel.app/api?username=dev-mohamed-ayman&show_icons=true&theme=dracula)](https://github.com/username)
 
-[![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dracula)](https://github.com/username)
+[![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohamed-ayman&layout=compact&theme=dracula)](https://github.com/username)
 
 ## 📫 كيف تتواصل معي
 
